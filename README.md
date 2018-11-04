@@ -1,6 +1,9 @@
 # HydroDevice
+This is the page about the HydroDevice. It helps you with your plants.
+
 [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+### Items to purchase:
 - [ ] Particle Argon
 - [ ] Particle Xenon
 - [ ] Relay Shield
